@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on full-stack web applications using React, Node.js, and Firebase (R17 Gaming, Astravore, TIC)<br>🤝 I’m looking to collaborate on real-world projects, startups, and scalable web apps<br>👐 I’m looking for help with system design, backend scaling, and advanced architecture<br>🌱 I’m currently learning advanced backend (Node.js), system design, and performance optimization<br>💬 Ask me about React, Firebase, APIs, authentication, and deployment<br>⚡ Fun fact: I enjoy building complete products from idea to deployment, not just features
+🛠️ I’m currently working on full-stack web applications using React, Node.js, and Firebase<br>🤝 I’m looking to collaborate on real-world projects, startups, and scalable web apps<br>👐 I’m looking for help with system design, backend scaling, and advanced architecture<br>🌱 I’m currently learning advanced backend (Node.js), system design, and performance optimization<br>💬 Ask me about React, Firebase, APIs, authentication, and deployment<br>⚡ Fun fact: I enjoy building complete products from idea to deployment, not just features
 
 
 ## 🌐 Socials:
